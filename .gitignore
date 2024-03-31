@@ -1,0 +1,13 @@
+.vs/
+Binaries/
+Build/
+Config/
+Content/
+DerivedDataCache/
+Intermediate/
+Platforms/
+Plugins/
+Saved/
+.vsconfig
+LyraGame.uproject
+README.md
